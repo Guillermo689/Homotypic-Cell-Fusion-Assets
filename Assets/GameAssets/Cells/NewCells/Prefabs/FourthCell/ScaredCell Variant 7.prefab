@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &988072042547390717
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 902721305703264122, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_Name
+      value: ScaredCell Variant 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1423850698594868049, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1423850698594868049, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -2087126655
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.08710275
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.60143006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.02072487
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7696367502282192317, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: newCell
+      value: 
+      objectReference: {fileID: 4843234776568131232, guid: 1b8fe065377caae4cb3ac865f426649f, type: 3}
+    - target: {fileID: 7696367502282192317, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: cellType
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7859345058156133876, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6054917
+      objectReference: {fileID: 0}
+    - target: {fileID: 7859345058156133876, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_Color.g
+      value: 0.27450982
+      objectReference: {fileID: 0}
+    - target: {fileID: 7859345058156133876, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7859345058156133876, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7859345058156133876, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -2087126655
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3815f33b7731fa54c91fdcd8bb93de75, type: 3}

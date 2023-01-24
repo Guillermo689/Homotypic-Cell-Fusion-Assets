@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4293799287672107844
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 902721305703264122, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_Name
+      value: MotherCell Variant 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.08710275
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.60143006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.02072487
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459286978288270310, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5782301774342419853, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_Bounds.m_Center.x
+      value: -0.0022387505
+      objectReference: {fileID: 0}
+    - target: {fileID: 5782301774342419853, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_Bounds.m_Center.y
+      value: 0.00088596344
+      objectReference: {fileID: 0}
+    - target: {fileID: 5782301774342419853, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_Bounds.m_Extent.x
+      value: 7.9772396
+      objectReference: {fileID: 0}
+    - target: {fileID: 5782301774342419853, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_Bounds.m_Extent.y
+      value: 8.6564045
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734692366591567895, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734692366591567895, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_Color.g
+      value: 0.9706982
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734692366591567895, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: m_Color.r
+      value: 0.99215686
+      objectReference: {fileID: 0}
+    - target: {fileID: 7696367502282192317, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: newCell
+      value: 
+      objectReference: {fileID: 4627618765744663098, guid: 302e2c0608337244bb6bef2f496999be, type: 3}
+    - target: {fileID: 7696367502282192317, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
+      propertyPath: cellType
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 097c7d93f4554bc43b8b458bbbfb1326, type: 3}
